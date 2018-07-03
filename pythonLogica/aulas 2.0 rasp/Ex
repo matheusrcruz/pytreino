@@ -1,0 +1,21 @@
+# coding: -UTF8
+"""
+1)imprima o nome 
+{print("Matheus")}
+2)Peça ao usuario para digitar o o nome e reveleo
+{name = input("Digite seu nome ")
+print(name)}
+3)Peça ao usuario digitar a sua idade e seu nome
+e reveleos.
+{
+nome = input("Digite seu nome ")
+idade = int(input("Digite sua idade "))
+print("Sua idade é %d e seu nome é %s" % (idade, nome))
+}
+4)Peça para o usuario digitar um numero e depois reveleo.
+{number =int(input("Digite um numero "))
+print("O numero digitado foi", number)
+}
+
+"""
+

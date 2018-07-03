@@ -1,2 +1,3 @@
 # pytreino
-alguns algoritmos em python
+logica de programação basica em python 3x.
+
